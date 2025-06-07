@@ -5,7 +5,7 @@ Submitted by: **NAME**
 
 Estimated time spent: **#** hours spent in total
 
-Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
+Deployed Application (optional): [Globetrotter Deployed Site](https://globetrotter-murex.vercel.app/index.html)
 
 ### Application Features
 
