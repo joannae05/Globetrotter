@@ -71,7 +71,7 @@ nav ul li a {
 nav ul li a:hover {
     color: lightgray;
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 950px) {
     nav ul {
         flex-direction: column;
         align-items: stretch;    
@@ -211,7 +211,7 @@ nav ul li a:hover {
 #address a:hover {
     color: darkgray;
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 950px) {
     .food > div {
         flex-direction: column;
         align-items: center; /* Optional: center items horizontally */
